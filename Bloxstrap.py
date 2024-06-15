@@ -8,5 +8,5 @@ def downloadninstall(url):
         os.remove(fn)
 #If you arent skid, dont change title plz
 ctypes.windll.kernel32.SetConsoleTitleW("Semi-Automated bloxstrap installer | By @HtB1526 (telegram & discord) | t.me/arceusxscripts")
-downloadninstall("https://download.visualstudio.microsoft.com/download/pr/fb0630a0-d5e7-43a6-92eb-1e114de80a5b/a43563f0a5c6ca71005d8ffe5de1bd88/dotnet-runtime-6.0.28-win-x64.exe")
-downloadninstall("https://github.com/pizzaboxer/bloxstrap/releases/download/v2.5.4/Bloxstrap-v2.5.4.exe")
+downloadninstall("https://download.visualstudio.microsoft.com/download/pr/17089bd5-7875-4a3f-a430-5da3bc2dd57e/33acf480233bfb3fca383fb664fc8981/dotnet-runtime-6.0.31-win-x64.exe")
+downloadninstall("https://github.com/pizzaboxer/bloxstrap/releases/download/v2.6.1/Bloxstrap-v2.6.1.exe")
